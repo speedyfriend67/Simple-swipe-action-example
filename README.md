@@ -33,10 +33,12 @@ This is a simple SwiftUI app for managing a list of users. It allows users to ad
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](![IMG_7675](https://github.com/speedyfriend67/Simple-swipe-action-example/assets/82425907/e89f7b35-a48e-4cac-87c5-8a886a0109af)
+)
 *Add new users and manage existing users.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](![IMG_7677](https://github.com/speedyfriend67/Simple-swipe-action-example/assets/82425907/509259b6-69d5-4fb4-9af2-121e392a4e81)
+)
 *Adjust font size in the settings view.*
 
 ## Usage
